@@ -1,3 +1,7 @@
+1，原库：https://github.com/jeremyhamm/home-assistant-moon
+2，网友修改：https://bbs.hassbian.com/thread-14450-1-1.html
+3，本人只是修改成适合自己观感
+--------------------以下原说明---------------------------
 # Home Assistant Moon 🌙
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
